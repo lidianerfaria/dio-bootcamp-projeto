@@ -1,0 +1,6 @@
+GIT:
+COMANDOS BÁSICOS:
+- cd (mudar de diretório) - cd .. (voltar)
+- dir (listar repositórios)
+- mkdir (criar diretório)
+- del / rmdir (deletar arquivos/diretórios)
